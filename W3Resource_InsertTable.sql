@@ -1,0 +1,1 @@
+-- MySQL Insert Table - 14 exercises
